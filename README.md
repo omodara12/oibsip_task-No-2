@@ -15,12 +15,12 @@ The objective is not just technical — it's analytical: to create a trustworthy
 
 ## Tools and Techniques used
 ##### The cleaning process was conducted in Python, using the following libraries:
-Tool	Purpose
-pandas	Data handling, missing value imputation
-seaborn & matplotlib	Visualizing outliers via boxplots
-numpy	Statistical calculations
-datetime	Handling and converting date fields
-The Interquartile Range (IQR) method was used to detect and remove outliers.
+#####      Tool	                Purpose
+          pandas	                Data handling, missing value imputation
+          seaborn & matplotlib	     Visualizing outliers via boxplots
+          numpy	                Statistical calculations
+          datetime	                Handling and converting date fields
+          The Interquartile Range (IQR) method was used to detect and remove outliers.
 
 
 ## Loading the dataset
