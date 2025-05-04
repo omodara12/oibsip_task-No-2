@@ -41,8 +41,8 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ##### •	host_name and name: Minimal missing values dropped, as they were not critical for numerical analysis
 ##### •	
 ## •	Standardization
-#####•	Text fields like neighbourhood_group, room_type, and host_name were cleaned for casing and spacing
-#####•	Ensured uniform formatting for categorical variables to prevent grouping inconsistencies
+##### •	Text fields like neighbourhood_group, room_type, and host_name were cleaned for casing and spacing
+##### •	Ensured uniform formatting for categorical variables to prevent grouping inconsistencies
 
 ## Visual for the key numerical features
 ![key numerical values](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task%202-11.png)
