@@ -48,6 +48,7 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ## Visual for the key numerical features
 ![key numerical values](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task%202-11.png)
 ## Detecting Outliers(IQR)
+![IQR](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-14.png)
 ![detecting outliers](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-12.png)
 ![outliers detection](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-13.png)
 ## Removing Outliers(IQR)
