@@ -22,7 +22,7 @@ The objective is not just technical — it's analytical: to create a trustworthy
           datetime	                Handling and converting date fields
           The Interquartile Range (IQR) method was used to detect and remove outliers.
           
-
+##### The dataset was gotton from kaggle 
 ## Loading the dataset
 ![import data](https://github.com/omodara12/oibsip_task-No-2/blob/main/images/task2-1.png)
 ![dataset](https://github.com/omodara12/oibsip_task-No-2/blob/main/task%202-2.png)
