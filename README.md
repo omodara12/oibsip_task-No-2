@@ -53,12 +53,12 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ![Removing outliers](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-18.png)
 ## Outlieir Detection interpretation
 ##### I focused on the following key numerical fields:
-## Column	Outliers Removed	## Reason for Concern
-##### price	           ##### High-priced listings (> $1,000) skewed averages and models	
-##### minimum_nights	           ##### Unrealistically long stays (e.g., > 30 nights) disrupted guest behavior insights	
-##### number_of_reviews	##### Listings with 400+ reviews distorted demand metrics	
-##### reviews_per_month	##### Spikes in review rates suggested automated or rare behavior	
-##### availability_365	##### Listings always available (365 days) could mask seasonal trends	
+## Column	Outliers Removed	 Reason for Concern
+##### price	            High-priced listings (> $1,000) skewed averages and models	
+##### minimum_nights	            Unrealistically long stays (e.g., > 30 nights) disrupted guest behavior insights	
+##### number_of_reviews	 Listings with 400+ reviews distorted demand metrics	
+##### reviews_per_month	 Spikes in review rates suggested automated or rare behavior	
+##### availability_365	 Listings always available (365 days) could mask seasonal trends	
 ## By visualizing boxplots before and after IQR-based filtering, we confirmed significant improvement in scale and distribution.
 
 
