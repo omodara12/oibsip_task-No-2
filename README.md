@@ -21,9 +21,11 @@ The objective is not just technical — it's analytical: to create a trustworthy
           numpy	                Statistical calculations
           datetime	                Handling and converting date fields
           The Interquartile Range (IQR) method was used to detect and remove outliers.
-
+          
 
 ## Loading the dataset
 ![import data](https://github.com/omodara12/oibsip_task-No-2/blob/main/images/task2-1.png)
+
 ## Data cleaning
 ##### Checking for missing values
+
