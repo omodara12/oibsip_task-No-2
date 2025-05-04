@@ -51,6 +51,7 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ![detecting outliers](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-12.png)
 ![outliers detection](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-13.png)
 ## Removing Outliers(IQR)
+![removing outliers](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-17.png)
 ![Removing outliers](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-18.png)
 ## Outlieir Detection interpretation
 ##### I focused on the following key numerical fields:
