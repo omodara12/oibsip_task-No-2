@@ -29,3 +29,4 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ## Data cleaning
 ##### Checking for missing values
 ![missing values](https://github.com/omodara12/oibsip_task-No-2/blob/main/task%202-4.png)
+![missing values](https://github.com/omodara12/oibsip_task-No-2/blob/main/task2_3.png)
