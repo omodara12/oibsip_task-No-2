@@ -8,10 +8,10 @@ However, raw data is rarely ready for direct analysis. Before drawing insights o
 
 The objective is not just technical — it's analytical: to create a trustworthy dataset that reflects real-world behavior, reduces bias, and unlocks actionable insights for hosts, analysts, and urban planners.
 ## Key Goals
-##### •	Identify and handle missing values
-      •	Standardize and format text and numerical features
-      •	Detect and remove outliers that could bias results
-      •	Ensure the dataset is clean and ready for exploratory analysis and modeling
+#####      •	Identify and handle missing values
+           •	Standardize and format text and numerical features
+           •	Detect and remove outliers that could bias results
+           •	Ensure the dataset is clean and ready for exploratory analysis and modeling
 
 
 
