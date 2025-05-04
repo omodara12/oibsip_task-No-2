@@ -64,6 +64,10 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ##### •	Extreme prices and long minimum stays were the most influential outliers — removing them improved the representativeness of the data.
 ##### •	Review metrics required careful handling; instead of deletion, we applied log scaling and kept moderate outliers for richer patterns.
 ##### •	Availability values of exactly 365 are worth flagging — they likely represent commercial listings and might require segmentation in future analysis.
+## Conclusion
+##### This report has documented the essential process of transforming the Airbnb NYC 2019 dataset from its raw form into a structured and analysis-ready format. Through a systematic approach to data cleaning — including handling missing values, standardizing text entries, and detecting outliers — the dataset has been refined to more accurately represent the real dynamics of Airbnb listings across New York City.Outliers in key variables such as price, minimum_nights, and number_of_reviews were identified using the IQR method and carefully removed to avoid skewed insights. The process revealed how a relatively small number of extreme values could disproportionately impact average metrics and modeling accuracy.Throughout this project, I relied on powerful tools such as Pandas, NumPy, Matplotlib, and Seaborn to not only clean the data but also to visualize and validate each step. Each decision made during cleaning was grounded in a goal: to ensure consistency, accuracy, and analytical value.The resulting dataset is now a strong foundation for further exploration — whether through visualization, trend analysis, or machine learning. By investing time in this crucial preparatory phase, I’ve ensured that future findings will be based on high-quality, meaningful data. This project has not only improved the dataset but also deepened my practical understanding of data cleaning as a vital skill in the data science lifecycle.
+
+
 
 
 
