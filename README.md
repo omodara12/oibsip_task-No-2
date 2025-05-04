@@ -55,11 +55,17 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ##### I focused on the following key numerical fields:
 ## Column	Outliers Removed and reason for Concern
 ##### price:	            High-priced listings (> $1,000) skewed averages and models	
-##### minimum_nights:	            Unrealistically long stays (e.g., > 30 nights) disrupted guest behavior insights	
-##### number_of_reviews:	 Listings with 400+ reviews distorted demand metrics	
-##### reviews_per_month:	 Spikes in review rates suggested automated or rare behavior	
-##### availability_365:	 Listings always available (365 days) could mask seasonal trends	
-## By visualizing boxplots before and after IQR-based filtering, we confirmed significant improvement in scale and distribution.
+##### • minimum_nights :	            Unrealistically long stays (e.g., > 30 nights) disrupted guest behavior insights	
+##### • number_of_reviews :	 Listings with 400+ reviews distorted demand metrics	
+##### • reviews_per_month :	 Spikes in review rates suggested automated or rare behavior	
+##### • availability_365 :	 Listings always available (365 days) could mask seasonal trends	
+## By visualizing boxplots before and after IQR-based filtering, I confirmed significant improvement in scale and distribution.
+## Insights and Interpretations
+##### •	Extreme prices and long minimum stays were the most influential outliers — removing them improved the representativeness of the data.
+##### •	Review metrics required careful handling; instead of deletion, we applied log scaling and kept moderate outliers for richer patterns.
+##### •	Availability values of exactly 365 are worth flagging — they likely represent commercial listings and might require segmentation in future analysis.
+
+
 
 
 
