@@ -25,7 +25,7 @@ The objective is not just technical — it's analytical: to create a trustworthy
 
 ## Loading the dataset
 ![import data](https://github.com/omodara12/oibsip_task-No-2/blob/main/images/task2-1.png)
-
+![dataset](https://github.com/omodara12/oibsip_task-No-2/blob/main/task%202-2.png)
 ## Data cleaning
 ##### Checking for missing values
 
