@@ -13,7 +13,17 @@ The objective is not just technical — it's analytical: to create a trustworthy
            •	Detect and remove outliers that could bias results
            •	Ensure the dataset is clean and ready for exploratory analysis and modeling
 
+## Tools and Techniques used
+##### The cleaning process was conducted in Python, using the following libraries:
+Tool	Purpose
+pandas	Data handling, missing value imputation
+seaborn & matplotlib	Visualizing outliers via boxplots
+numpy	Statistical calculations
+datetime	Handling and converting date fields
+The Interquartile Range (IQR) method was used to detect and remove outliers.
 
 
 ## Loading the dataset
 ![import data](https://github.com/omodara12/oibsip_task-No-2/blob/main/images/task2-1.png)
+## Data cleaning
+##### Checking for missing values
