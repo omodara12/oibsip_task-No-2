@@ -35,6 +35,15 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ![Handling missing values](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-6.png)
 ## Standardize and format text for numerical features
 ![Standardize](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-10.png)
+## Data cleaning Summary
+#####•	last_review (10,052 missing): Converted to datetime and kept missing entries as NaT
+•	reviews_per_month: Missing values filled with 0.0 to represent listings with no monthly reviews
+•	host_name and name: Minimal missing values dropped, as they were not critical for numerical analysis
+•	
+•	Standardization
+•	Text fields like neighbourhood_group, room_type, and host_name were cleaned for casing and spacing
+•	Ensured uniform formatting for categorical variables to prevent grouping inconsistencies
+
 ## Visual for the key numerical features
 ![key numerical values](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task%202-11.png)
 
