@@ -50,6 +50,7 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ## Detecting Outliers(IQR)
 ![outliers detection](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-13.png)
 ## Removing Outliers(IQR)
+![Removing outliers](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-18.png)
 
 
 
