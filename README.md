@@ -36,6 +36,7 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ## Standardize and format text for numerical features
 ![Standardize](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-10.png)
 ## Visual for the key numerical features
+![key numerical values](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task%202-11.png)
 
 
 
