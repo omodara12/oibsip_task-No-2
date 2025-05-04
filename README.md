@@ -33,6 +33,7 @@ The objective is not just technical — it's analytical: to create a trustworthy
 ## Handling missing values
 ![Handling missing values](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-5.png)
 ![Handling missing values](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-6.png)
+## I check for duplicate, there was no duplicate 
 ## Standardize and format text for numerical features
 ![Standardize](https://github.com/omodara12/oibsip_task-No-2/blob/main/Task2-10.png)
 ## Data cleaning Summary
